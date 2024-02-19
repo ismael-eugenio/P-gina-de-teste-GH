@@ -1,0 +1,37 @@
+#d1{
+    display: flex;
+    
+    background-color: rebeccapurple;
+    justify-content: space-around;
+    flex-direction: column , 3;
+    align-items: center;
+     
+     
+     
+     width: 1000px;
+     height: 1000px;
+     
+    }
+    
+    .c1 { 
+     display: flex;        
+     text-decoration: none;
+     align-items: center;
+     justify-content: space-around;
+     background-color: rgb(240, 238, 238);
+     height: 200px;  
+     width: 200px;
+     color: rgb(245, 179, 182);
+    
+
+ 
+ }
+
+
+ .c1:hover{
+    background-color: rgb(3, 3, 3);
+    color: rgb(243, 179, 245);
+    text-decoration: none;
+ }
+
+ 
